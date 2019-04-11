@@ -104,3 +104,6 @@ ENV/
 
 # macOS
 .DS_Store
+
+# trained models
+data/model/*
